@@ -8,6 +8,7 @@ A weapon deals damage, an armor can take damage instead of the fighter, and a sk
 All skills have a cooldown ; that means you can't use a skill twice before the cooldown timer is down. They also have a hit rate. Note that a failed hit rate will trigger the cooldown too.
 
 Every fight starts with an initiative roll. Each fighter roll a 100 faces dice, and the one with the higher score starts the fight.
+
 A fighter win the fight when his oponnent dies.
 
 ## Technical description
