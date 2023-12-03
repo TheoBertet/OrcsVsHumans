@@ -3,6 +3,7 @@
 ## Description
 
 ORCS VS HUMANS is a turn by turn fight game, opposing different fighters each owning weapons, armors and skills.
+
 A weapon deals damage, an armor can take damage instead of the fighter, and a skill has a special behaviour, that can increase damage, heal the fighter, etc.
 
 All skills have a cooldown ; that means you can't use a skill twice before the cooldown timer is down. They also have a hit rate. Note that a failed hit rate will trigger the cooldown too.
