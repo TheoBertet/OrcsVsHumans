@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Human knight",
+    "healthPoints": 20,
+    "defaultDamages": 0,
+    "weapon": "Sword",
+    "armor": "Shield",
+    "skills": [
+      "Charge", "Holy Heal"
+    ],
+    "skin": "knight"
+  },
+  {
+    "name": "Smasher Orc",
+    "healthPoints": 60,
+    "defaultDamages": 0,
+    "weapon": "Axe",
+    "skills": [
+      "Stun"
+    ],
+    "skin": "orc"
+  },
+  {
+    "name": "Vicious Goblin",
+    "healthPoints": 30,
+    "defaultDamages": 0,
+    "weapon": "Dagger",
+    "skills": [
+      "Life drain"
+    ],
+    "skin": "goblin"
+  }
+]

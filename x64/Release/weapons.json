@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sword",
+    "damages": 5
+  },
+  {
+    "name": "Axe",
+    "damages": 8
+  },
+  {
+    "name": "Dagger",
+    "damages": 4
+  }
+]

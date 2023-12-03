@@ -1,0 +1,31 @@
+﻿  AppBehaviour.cpp
+  Armor.cpp
+  DataManager.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\DataManager.cpp(232,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\DataManager.cpp(254,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\DataManager.cpp(338,16): warning C4018: '>' : incompatibilité signed/unsigned
+  EndFightState.cpp
+  EnemyTurnState.cpp
+  EntryGameState.cpp
+  FightBehaviour.cpp
+  Fighter.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\Fighter.cpp(87,14): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\Fighter.cpp(266,38): warning C4244: '*=' : conversion de 'float' en 'int', perte possible de données
+  FightState.cpp
+  InitiativeState.cpp
+  LoadingState.cpp
+  MState.cpp
+  OrcVersusHuman.cpp
+  PlayerTurnState.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\PlayerTurnState.cpp(107,15): warning C4018: '<' : incompatibilité signed/unsigned
+  SelectFighterState.cpp
+  Skill.cpp
+  Skin.cpp
+  StateMachine.cpp
+  Tools.cpp
+  UIManager.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  Weapon.cpp
+  Génération de code en cours...
+  OrcVersusHuman.vcxproj -> C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\Debug\OrcVersusHuman.exe

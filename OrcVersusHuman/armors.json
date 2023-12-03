@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Shield",
+    "description": "Absorbs damages instead of taking it. Destroyed when armor points reach zero.",
+    "armorPoints": 50
+  }
+]

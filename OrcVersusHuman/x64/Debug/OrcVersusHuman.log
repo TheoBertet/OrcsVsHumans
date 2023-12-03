@@ -1,0 +1,34 @@
+﻿  AppBehaviour.cpp
+  Armor.cpp
+  DataManager.cpp
+  EndFightState.cpp
+  EnemyTurnState.cpp
+  EntryGameState.cpp
+  FightBehaviour.cpp
+  FightState.cpp
+  Fighter.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\Fighter.cpp(228,58): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\Fighter.cpp(331,38): warning C4244: '*=' : conversion de 'float' en 'int', perte possible de données
+  HowToPlayState.cpp
+  InitiativeState.cpp
+  LoadingState.cpp
+  MState.cpp
+  OrcVersusHuman.cpp
+  PlayerTurnState.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\PlayerTurnState.cpp(124,46): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  SelectFighterState.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\SelectFighterState.cpp(33,81): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\SelectFighterState.cpp(61,65): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Skill.cpp
+  Skin.cpp
+  StateMachine.cpp
+  Tools.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  UIManager.cpp
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\UIManager.cpp(17,72): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\UIManager.cpp(37,72): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\OrcVersusHuman\UIManager.cpp(63,99): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Weapon.cpp
+  Génération de code en cours...
+  OrcVersusHuman.vcxproj -> C:\Users\theob\OneDrive\Documents\Perso\Prog Perso\C++\Projet Eugen Systems\OrcVersusHuman\x64\Debug\OrcVersusHuman.exe

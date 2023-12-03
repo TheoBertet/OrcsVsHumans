@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers sources\Data">
+      <UniqueIdentifier>{435a0385-a46e-4415-9604-38c07edc2fcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Data">
+      <UniqueIdentifier>{0c3a2adc-993b-4a64-a629-f9572b3685af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\StateMachines">
+      <UniqueIdentifier>{fce24a9c-ead9-4d50-b403-d60e10dc9114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\StateMachines\AppBehaviour">
+      <UniqueIdentifier>{95a0b02d-f218-41b7-b3b7-4fe2cb3d077e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\StateMachines">
+      <UniqueIdentifier>{545949d8-15bc-45fc-9fc6-18db3265dd4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\StateMachines\AppBehaviour">
+      <UniqueIdentifier>{67eaab15-cdd3-4897-8261-712444553604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\StateMachines\FightBehaviour">
+      <UniqueIdentifier>{5a4a723c-4222-4e11-9165-80c1a6e7e48c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\StateMachines\FightBehaviour">
+      <UniqueIdentifier>{9b25e9db-8e8c-40c1-a228-7820b46a48e1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Fighter.cpp">
+      <Filter>Fichiers sources\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Fichiers sources\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Armor.cpp">
+      <Filter>Fichiers sources\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>Fichiers sources\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DataManager.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="AppBehaviour.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="StateMachine.cpp">
+      <Filter>Fichiers sources\StateMachines</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectFighterState.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingState.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="OrcVersusHuman.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="EntryGameState.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="MState.cpp">
+      <Filter>Fichiers sources\StateMachines</Filter>
+    </ClCompile>
+    <ClCompile Include="FightState.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="FightBehaviour.cpp">
+      <Filter>Fichiers sources\StateMachines\FightBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="InitiativeState.cpp">
+      <Filter>Fichiers sources\StateMachines\FightBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerTurnState.cpp">
+      <Filter>Fichiers sources\StateMachines\FightBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyTurnState.cpp">
+      <Filter>Fichiers sources\StateMachines\FightBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="EndFightState.cpp">
+      <Filter>Fichiers sources\StateMachines\FightBehaviour</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Skin.cpp">
+      <Filter>Fichiers sources\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToPlayState.cpp">
+      <Filter>Fichiers sources\StateMachines\AppBehaviour</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fighter.h">
+      <Filter>Fichiers d%27en-tête\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Fichiers d%27en-tête\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Armor.h">
+      <Filter>Fichiers d%27en-tête\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>Fichiers d%27en-tête\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="DataManager.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="AppBehaviour.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="StateMachine.h">
+      <Filter>Fichiers d%27en-tête\StateMachines</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectFighterState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardInputs.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="EntryGameState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="MState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines</Filter>
+    </ClInclude>
+    <ClInclude Include="FightState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="FightBehaviour.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\FightBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="InitiativeState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\FightBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerTurnState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\FightBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyTurnState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\FightBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="EndFightState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\FightBehaviour</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Skin.h">
+      <Filter>Fichiers d%27en-tête\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="HowToPlayState.h">
+      <Filter>Fichiers d%27en-tête\StateMachines\AppBehaviour</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="armors.json">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="drawings.json">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="fighters.json">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="skills.json">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+    <None Include="weapons.json">
+      <Filter>Fichiers de ressources</Filter>
+    </None>
+  </ItemGroup>
+</Project>

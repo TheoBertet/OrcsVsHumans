@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Charge",
+    "description": "Rush the enemy and double the damages for the current turn.",
+    "damagesMultiplicator": 2,
+    "stunEnemy": false,
+    "duration": 1,
+    "successRate": 0.6,
+    "cooldown": 3,
+    "heal": 0
+  },
+  {
+    "name": "Stun",
+    "description": "Crush the enemy to stun him during a round.",
+    "damagesMultiplicator": 1,
+    "stunEnemy": true,
+    "duration": 1,
+    "successRate": 0.2,
+    "cooldown": 5,
+    "heal": 0
+  },
+  {
+    "name": "Life drain",
+    "description": "Drain half of the damages inflicted during a round.",
+    "damagesMultiplicator": 1,
+    "stunEnemy": false,
+    "duration": 1,
+    "successRate": 0.5,
+    "cooldown": 4,
+    "heal": 0
+  },
+  {
+    "name": "Holy Heal",
+    "description": "Heal the caster 10 health points.",
+    "damagesMultiplicator": 1,
+    "stunEnemy": false,
+    "duration": 1,
+    "successRate": 0.5,
+    "cooldown": 5,
+    "heal": 10
+  }
+]
