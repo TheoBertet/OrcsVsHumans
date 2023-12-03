@@ -36,6 +36,10 @@ The second state machine, ``FightBehaviour``, concerns the fight part behaviour.
 
 In a way to structure the code, the master state machine and the state machine's states are inherited from base classes ``MState`` and ``StateMachine``.
 
+### Loading Data
+
+As explained previously, the important data (as the fighters, the weapons, etc.) are stored in the DataManager. But at each launch, all the data are loaded from json files. These files are MANDATORY to launch the game.
+
 ## External libraries
 
 This project use only one external library : ``nlohmann/json`` (link: https://github.com/nlohmann/json) A special thanks to nlohmann thus!
