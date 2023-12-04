@@ -42,6 +42,12 @@ In a way to structure the code, the master state machine and the state machine's
 
 As explained previously, the important data (as the fighters, the weapons, etc.) are stored in the DataManager. But at each launch, all the data are loaded from json files. These files are MANDATORY to launch the game.
 
+### Compilation
+
+If you want to compile again the executable : It is MANDATORY to add in the exe's repository all the json files containing the game data. (armors.json, drawings.json, fighters.json, skills.json, weapons.json)
+
+These files are already presents in the repo "OrcsVsHumans/x64/Release" or directly in the repository containing all the project's classes.
+
 ## External libraries
 
 This project use only one external library : ``nlohmann/json`` (link: https://github.com/nlohmann/json) A special thanks to nlohmann thus!
